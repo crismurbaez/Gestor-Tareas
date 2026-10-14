@@ -6,6 +6,8 @@
 
 **Alumna:** Cristina Laura Murguía Báez
 
+**GitHub Pages:** [Gestor de Tareas](https://crismurbaez.github.io/Gestor-Tareas/)
+
 ---
 
 ## Instrucciones para ejecutar y probar el proyecto

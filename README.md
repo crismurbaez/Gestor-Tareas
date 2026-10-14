@@ -1,5 +1,13 @@
 # Sistema de Gestión de Tareas — PFO 2
 
+**Materia:** Programación sobre redes
+
+**Año:** 3º E
+
+**Alumna:** Cristina Laura Murguía Báez
+
+---
+
 ## Instrucciones para ejecutar y probar el proyecto
 
 ### 1. Instalar dependencias
